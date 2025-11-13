@@ -1,12 +1,6 @@
 # SQL-Data Warehouse-Project
 A comprehensive SQL Data Warehouse project that demonstrates the process of designing, building, and optimizing a data warehouse using SQL. It includes data modeling, ETL processes, dimensional modeling (star schema), and analytical queries for business intelligence insights.
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-# sql-dwh-project
-
-**A structured SQL Data Warehouse project** — implementation of a layered data warehouse (bronze → silver → gold) with clear project initialization, reproducible Git workflow, validation checks, and documentation.  
-This repo holds SQL code, ETL scripts, schema definitions, data quality checks, and project documentation necessary to build a production-ready DWH.
-
----
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 ## Table of Contents
 1. [Project Overview](#project-overview)  
