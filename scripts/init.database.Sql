@@ -5,8 +5,8 @@
    Initial setup script for creating the DataWarehouse database 
    and its core schemas (bronze, silver, gold) following the 
    multi-layered architecture used in data engineering projects.
- Author: Hanen
- Date: YYYY-MM-DD
+ Author: Hanen Elkhishen
+ Program: SSMS
 ===============================================================
 */
 
